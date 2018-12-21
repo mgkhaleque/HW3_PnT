@@ -7,15 +7,7 @@ public class TestHuman {
 		Children child1 = new Children();
 		child1.athletic();
 		child1.education();
-		child1.height();
-		
-
-		
-	
-		
-		
-		
-		
+		child1.height();	
 		
 		
 	}
